@@ -7,6 +7,7 @@ public class Anagha {
 		System.out.println("anagha");
 		System.out.println("chandore");
 		System.out.println("abcd");
+		System.out.println("B.tech chemical");
 	}
 
 }
